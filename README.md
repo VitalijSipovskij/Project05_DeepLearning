@@ -31,7 +31,7 @@ Through this project, we gain valuable insights into the factors influencing tec
 
 ## Usage
 1. Clone the repository.
-2. Open `Project04_ML.ipynb` script file and execute it using integrated development environment (IDE)
+2. Open `Project05_DeepLearning.ipynb` script file and execute it using integrated development environment (IDE)
 like Jupyter Notebook or Colaboratory. And upload Dataset into that platform so that it could initiate properly. !Notice
 uploaded dataset into platform will be available only for 24 hours after that you will need to upload it again into that
 platform.
